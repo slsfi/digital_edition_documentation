@@ -1,6 +1,4 @@
 # The Generic Digital Edition Software
 
-## Intended workflow (TEI-XML)
-![Workflow](https://github.com/slsfi/digital_edition_documentation/blob/main/assets/workflow.svg)
-
-## Intended workflow (Other)
+## Have a look at the Wiki for more information
+![Wiki](https://github.com/slsfi/digital_edition_documentation/wiki)
